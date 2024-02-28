@@ -1,0 +1,107 @@
+.one {
+    margin-top: 100px;
+}
+
+.two {
+    max-width: 90px;
+    max-height: 50px;
+}
+
+
+.three {
+    margin-top: 200px;
+}
+
+.four {
+    max-width: 200px;
+}
+
+.five {
+    border: none;
+}
+
+.six {
+    margin-top: 250px;
+}
+
+
+.accordion-item {
+    border: none;
+   
+}
+
+.seven{
+    margin-top: 200px;
+}
+
+.card{
+    border: none;
+}
+
+
+.eight{
+    height: 30px;
+    width: 30px;
+    margin: 5px;
+}
+
+
+.iocn{
+    width: 20px;
+    height: 20px;
+}
+
+
+p {
+    /* margin-top: 0; */
+    margin-bottom: 1rem;
+}
+
+.line{
+    height: 340px;
+}
+
+.cards{
+    height: 370px;
+    /* max-width: 600px; */
+}
+
+.nine{
+    max-width: 1500px;
+    /* border: 2px solid red; */
+}
+
+
+.ten{
+    margin-top: 90px;
+}
+
+
+
+.accordion-button:not(.collapsed){
+    background-color: white;
+}
+
+.vasu{
+    max-width: 600px;
+}
+
+
+.color{
+   max-height:1000px;
+   width: 100%; 
+   margin-top: 60px;
+    background-color:rgb(3, 3, 16) ;
+}
+
+
+.one1{
+    width: 200px;
+    height: 60px;
+    margin-top: 30px;
+    /* align-items: center; */
+}
+
+/* .width{
+    width: 400px;
+} */

@@ -1,0 +1,213 @@
+img
+{
+   margin-top: 130px;
+   height: 500px;
+   width: 1500px;
+   background-color: whitesmoke;
+}
+
+div img
+{
+    height: 525px;
+    width: 400px;
+    bottom:30px;
+    position: absolute;
+    background-color: rgb(41, 78, 78);
+    margin-left: 50px;
+    border-radius: 10px;
+}
+
+div div img
+{
+    /* background-image: cover; */
+    height: inherit;
+    overflow-x: initial;
+    /* background-position: inherit; */
+}
+
+ p
+{
+    bottom:472px;
+    position: absolute;
+    color: white;
+    padding-left: 170px;
+    font-size: 20px;
+}
+
+h1
+{
+    bottom:410px;
+    position: absolute;
+    color: yellow;
+    padding-left: 130px; 
+}
+
+.ntr
+{
+    height: 120px;
+    width: 120px;
+    bottom:45px;
+    position: absolute;
+    color: yellow;
+    margin-left: 300px; 
+}
+
+i
+{
+    bottom:70px;
+    position: absolute;
+    color: black;
+    margin-left: 335px; 
+    font-size: 30px;
+}
+
+.div
+{
+    height: 300px;
+    width: 500px;
+    background-color: red;
+    bottom:250px;
+    position: absolute;
+    margin-left: 470px; 
+    border-radius: 20px;
+}
+
+.ntrr
+{
+    height: 300px;
+    width: 150px;
+    bottom:250px;
+    position: absolute;
+    margin-left: 500px; 
+    background-color: red;
+    background-position-y: remove;
+}
+
+h3
+{
+    bottom:470px;
+    position: absolute;
+    color: white;
+    margin-left: 690px; 
+    font-size: 23px; 
+}
+
+h2 
+{
+    bottom:350px;
+    position: absolute;
+    color: white;
+    margin-left: 690px; 
+    font-size: 70px; 
+}
+
+b
+{
+    bottom:360px;
+    position: absolute;
+    color:yellow;
+    margin-left: 690px; 
+    font-size: 30px; 
+}
+
+.btn1
+{
+    bottom:280px;
+    position: absolute;
+    height: 60px;
+    width: 200px;
+    margin-left: 690px; 
+    font-size: 25px;
+    border-radius: 10px; 
+}
+
+.nntr
+{
+    height: 300px;
+    width: 450px;
+    bottom:250px;
+    position: absolute;
+    margin-left: 1000px; 
+    border-radius: 20px;
+}
+
+h4
+{
+    bottom:472px;
+    position: absolute;
+    color: white;
+    padding-left: 1220px;
+    font-size: 20px;
+}
+
+big
+{
+    bottom:430px;
+    position: absolute;
+    color: yellow;
+    margin-left: 1220px; 
+    font-size: 50px; 
+}
+
+.btn2
+{
+    bottom:320px;
+    position: absolute;
+    height: 60px;
+    width: 200px;
+    margin-left: 1220px; 
+    font-size: 25px; 
+    border-radius: 10px;
+}
+
+.immg1
+{
+    height: 200px;
+    width: 980px;
+    bottom:20px;
+    position: absolute;
+    margin-left: 470px; 
+    background-color: green;
+    border-radius: 20px;
+}
+
+.immg2
+{
+    height: 200px;
+    width: 300px;
+    bottom:20px;
+    position: absolute;
+    margin-left: 470px; 
+    background-color: green;
+    border-radius: 20px;
+    background-image: 100%;
+}
+
+.w-1
+{
+    bottom:150px;
+    position: absolute;
+    color: white;
+    margin-left: 800px; 
+    font-size: 20px; 
+}
+
+.w-2
+{
+    bottom:30px;
+    position: absolute;
+    color: white;
+    margin-left: 660px; 
+    font-size: 70px; 
+}
+
+.btn3
+{
+    bottom:100px;
+    position: absolute;
+    height: 60px;
+    width: 200px;
+    margin-left: 1150px; 
+    font-size: 25px; 
+    border-radius: 10px;
+}

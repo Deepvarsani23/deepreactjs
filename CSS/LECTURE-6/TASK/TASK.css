@@ -1,0 +1,164 @@
+.maindiv{
+    height: 801px;
+    width: 1675px;
+    margin: auto;
+    position: relative;
+    background-color: black;    
+    display: flex;
+    border: 10px black solid;
+    border-radius: 20px;
+}
+
+.b-1{
+    height: 89px;
+    width: 186px;
+    background-color: white;
+   
+    
+}
+.b-2{
+    height: 89px;
+    width: 186px;
+    background-color: white;    
+    position: absolute;
+    left: 186px;
+    top: 89px;
+}
+.b-3{
+    height: 89px;
+    width: 186px;
+    background-color: white;      
+    position: absolute;
+    left: 372px;
+    top: 178px;
+}
+.b-4{
+    height: 89px;
+    width: 186px;
+    background-color: white;    
+    position: absolute;
+    left: 558px;
+    top:267px ;
+}
+.b-5{
+    height: 89px;
+    width: 186px;
+    background-color: white;       
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.b-6{
+    height: 89px;
+    width: 186px;   
+    background-color: white;
+    position: absolute;
+    right: 558px;
+    top: 267px;
+}
+.b-7{
+    height: 89px;
+    width: 186px;
+    background-color: white;       
+    position: absolute;
+    right: 372px;
+    top: 178px;
+}
+.b-8{
+    height: 89px;
+    width: 186px;
+    background-color: white;        
+    position: absolute;
+    right: 186px;
+    top: 89px;
+}
+.b-9{
+    height: 89px;
+    width: 186px;
+    background-color: white;    
+    position: absolute;
+    right: 0;
+}
+
+
+.b-10{
+    height: 89px;
+    width: 186px;
+    align-self: flex-end;
+    background-color: white;    
+    left: 0;
+    position: absolute;
+}
+
+.b-11{
+    height: 89px;
+    width: 186px;
+    align-self: flex-end;
+    background-color: white;    
+    position: absolute;
+    left: 186px;
+    bottom: 89px;
+}
+
+.b-12{
+    height: 89px;
+    width: 186px;
+    align-self: flex-end;
+    background-color: white;    
+    position: absolute;
+    left: 372px;
+    bottom: 178px;
+}
+
+.b-13{
+    height: 89px;
+    width: 186px;
+    align-self: flex-end;
+    background-color: white;    
+    position: absolute;
+    left: 558px;
+    bottom: 267px;
+}
+
+.b-14{
+    height: 89px;
+    width: 186px;
+    align-self: flex-end;
+    background-color: white;    
+    position: absolute;
+    right: 558px;
+    bottom: 267px;
+}
+
+.b-15{
+    height: 89px;
+    width: 186px;
+    align-self: flex-end;
+    background-color: white;    
+    position: absolute;
+    right: 372px;
+    bottom: 178px;
+}
+
+.b-16{
+    height: 89px;
+    width: 186px;
+    align-self: flex-end;
+    background-color: white;   
+    position: absolute;
+    right: 186px;
+    bottom: 89px;
+}
+
+
+.b-17{
+    height: 89px;
+    width: 186px;
+    align-self: flex-end;
+    background-color: white;    
+    right: 0;
+    position: absolute;
+}

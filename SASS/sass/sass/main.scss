@@ -1,0 +1,13 @@
+@use 'style';
+@import '_variable.scss';
+
+
+.box{
+    height: $h-1;
+    background-color: $color-1;
+    width: $w-1;
+}
+
+.main{
+    display: $d-1;
+}
