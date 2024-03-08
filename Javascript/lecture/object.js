@@ -20,7 +20,7 @@
 
 
 // const dataObject3 = {
-//   name:"vasu",
+//   name:"Deep",
 //   gender:"male",
 //   address:"Twintower",
 //   marks:{
