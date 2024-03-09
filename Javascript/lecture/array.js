@@ -70,14 +70,14 @@ Array indexes start with 0:
 /* Popping in javascript Array */
 
 {
-    // const fruits = ["Banana", "Orange", "Apple", "Mango"];
-    // document.getElementById("demo").innerHTML = fruits;
+    const fruits = ["Banana", "Orange", "Apple", "Mango"];
+    document.getElementById("demo").innerHTML = fruits;
     
-    // document.getElementById("demo-1").innerHTML =  fruits.pop();
+    document.getElementById("demo-1").innerHTML =  fruits.pop();
     
-    // console.log(fruits);
+    console.log(fruits);
     
-    // console.log(fruits.length);
+    console.log(fruits.length);
 }
 
 /* The pop() method returns the value that was "popped out" */

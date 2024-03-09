@@ -22,10 +22,22 @@
 
 /* to exponential */
 
-let a = 11000
+// let a = 11000
 
-let z = a.toExponential();
-console.log(z);
+// // let z = a.toExponential();
+// // console.log(z);
+// let x = a.toExponential(5)
+// console.log(x);
 
+/* valueof */
+{
 
+    // const number = 100;
+    // let number1 = number.valueOf()
+    // console.log(number1);
+    // console.log(typeof(number1));
+    // let number2 = (200).valueOf()
+    // console.log(number2);
+
+}
 

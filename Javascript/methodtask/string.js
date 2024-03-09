@@ -4,7 +4,7 @@
 // console.log(string.length);
 
 // let string1 = "hello javascript"
-// console.log(string1.length);
+// console.log(string1.length); 
 
 
 /*  charat  */
@@ -32,10 +32,27 @@
 
 /* substring */
 
-let string11 = "deep varsani"
-let string12 = string11.substring(7) // rsani
-let string13 = string11.substring(-4) // 
-let string14 = string11.substring(3 , 10) // p varsa
+// let string11 = "deep varsani"
+// let string12 = string11.substring(7) // rsani
+// let string13 = string11.substring(-4) // 
+// let string14 = string11.substring(3 , 10) // p varsa
 
-console.log(string14);
+// console.log(string14);
 
+
+/* replace */
+
+// let string15 = "deep varsani"
+// let string16 = string15.replace("deep" , "meet")
+// let string17 = string15.replace("Deep" , "meet")
+
+// console.log(string16);
+
+
+/* replaceall */
+
+let string18 = "deep varsani deep"
+let string19 = string18.replaceAll("deep","meet")
+
+
+console.log(string19);

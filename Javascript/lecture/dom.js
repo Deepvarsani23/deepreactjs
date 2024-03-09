@@ -87,8 +87,153 @@
 }
 
 {
-    const NewElement = document.createElement("div");
-    NewElement.textContent = "This is Marquee Tag"
-    NewElement.classList="deep"
-    document.body.appendChild(NewElement)
+    // const NewElement = document.createElement("div");
+    // NewElement.textContent = "This is Marquee Tag"
+    // NewElement.classList="deep"
+    // document.body.appendChild(NewElement)
+}
+
+//javascript has attribute
+
+{
+    // const element = document.querySelector("p");
+    // function check() {
+    //   if (element.hasAttribute("id")) {
+    //     alert("Yes 'id' attribute exist!");
+    //   }
+    //   else {
+    //     alert("No 'id' attribute doesn't exist!");
+    //   }
+    // }
+}
+
+
+//javascript get attribute
+
+{    
+    // const Newelement  = document.querySelector('input')
+    // function check(){
+    //     const AttriName = Newelement.getAttribute('value')
+    //     console.log(AttriName);
+    // }
+}
+
+// javascript set attribute
+
+{
+    // const element = document.getElementById("demo");
+
+    // function checkAttr() {
+    //   alert(element.hasAttribute("name"));
+    // }
+    // function addAttr() {
+    //   element.setAttribute("type" , "text");
+    // }
+}
+
+// javascript remove attribute
+
+// {
+//     const element = document.getElementById("demo");
+//     function checkAttr(){
+//        alert(element.hasAttribute('class'))
+//     }
+//     function remove() {
+//       element.removeAttribute("class");
+//       element.removeAttribute("name");
+//       element.removeAttribute("id");
+//     }
+//     function addAttr(){
+//        console.log(element.getAttribute("class"))
+//     } 
+// }
+
+
+/* Html Object Accessible */
+
+/*
+
+document.body
+document.documentElement
+document.forms
+document.images
+document.links
+document.scripts
+document.title
+
+*/
+
+{
+    // document.onload
+
+    // function Function1(){
+    //     const NewElement = document.createElement('marquee');
+    //     NewElement.textContent="This Is Marquee Tag";
+    //     document.body.appendChild(NewElement);
+
+    //     document.querySelector('body').style.background = "orange   "
+    // }
+}
+
+{
+    // document.getElementById("demo").innerHTML = document.body.innerHTML;
+}
+
+{
+    // document.getElementById("demo").innerHTML = document.documentElement.innerHTML;
+}
+
+{
+//     document.getElementById('demo').innerHTML = document.anchors.length
+// }
+// {
+//     document.getElementById("demo2").innerHTML =
+// "Number of anchors are: " + document.anchors.length;
+
+
+/*
+
+Description
+The anchors property is deprecated. Do NOT use it.
+
+The anchors property only returns those <a> elements with a name attribute.
+
+The name attribute of the <a> element is not supported in HTML5.
+
+*/
+
+}
+
+{
+    // document.getElementById("demo1").innerHTML = "Number of forms tag: " + document.forms.length;
+}
+
+{
+    // document.getElementById("demo1").innerHTML = "Number of forms tag: " + document.head;
+}
+
+{
+    // document.getElementById("demo2").innerHTML = "Number of images tag: " + document.images.length;
+}
+
+{
+    // document.getElementById("demo3").innerHTML = "Number of links tag: " + document.links.length;
+}
+
+{
+    // document.getElementById("demo4").innerHTML = "Number of scripts: " + document.scripts.length;
+}
+
+{
+    // document.getElementById("title").innerHTML = "The title of this document is: " + document.title;
+}
+
+{
+    // window.onload = () => {
+    //     // create a couple of elements in an otherwise empty HTML page
+    //     const heading = document.createElement("h1");
+    //     const headingText = document.createTextNode("Big Head!");
+    //     heading.appendChild(headingText);
+    //     document.body.appendChild(heading);
+    //   };
 }
