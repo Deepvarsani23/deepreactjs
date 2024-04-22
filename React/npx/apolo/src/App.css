@@ -1,0 +1,83 @@
+/* Navbar */
+.nav {
+  background: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.nav .logo a img {
+  height: 80px;
+}
+
+.items ul{
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+
+.items ul li {
+  margin-right: 50px;
+}
+.items ul li a{
+    font-size: 24px;
+    font-weight: 500;
+    color: white;
+    text-decoration: none;
+}
+
+/* Article */
+
+.art {
+  padding: 20px;
+}
+
+.art1{
+  height: 300px;
+  width: 300px;
+  margin-right: 30px;
+    
+
+}
+.art2{
+  display: flex;
+
+  
+}
+
+
+
+
+/* Footer */
+
+
+
+
+.bg-facebook {
+  background-color:#3b5998 ;
+
+  &:hover {
+    background-color: darken(#3b5998, 5%);
+  }
+}
+
+.bg-twitter {
+  background-color:#1da1f2;
+
+  &:hover {
+    background-color: darken(#1da1f2, 5%);
+  }
+}
+
+
+/* Card */
+
+.deep{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+h2{
+  font-size: large;
+}

@@ -51,8 +51,8 @@
 
 /* replaceall */
 
-let string18 = "deep varsani deep"
-let string19 = string18.replaceAll("deep","meet")
+// let string18 = "deep varsani deep"
+// let string19 = string18.replaceAll("deep","meet")
 
 
-console.log(string19);
+// console.log(string19);

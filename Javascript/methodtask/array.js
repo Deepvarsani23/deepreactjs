@@ -11,9 +11,9 @@
  
 /*   Array pop   */
 
-const food = ["pizza","dosa","burger"];
-food.pop();
-console.log(food);
+// const food = ["pizza","dosa","burger"];
+// food.pop();
+// console.log(food);
 
 
 /*    Array shift    */
@@ -23,29 +23,22 @@ console.log(food);
 
 
 /*    Array unshift   */
-// const person =["ashiti","palak","miral"];
-// person.unshift("krishna");
+// const person =["deep","harsh","vasu"];
+// person.unshift("tushar");
 // console.log(person);
 
 
 /*    Array changing elements    */
-// const dev =["shiv","krishna","ganesh","ram"];
-// dev[2]="ganpati";
+// const dev =["meet","deep","harsh","vasu"];
+// dev[2]="tushar";
 // console.log(dev);
 
 
 /*     Array merging (concat)    */
-// const girls =["jasmi","urmila",];
-// const boys =["harsh","tushar","vasu"];
-// const children =girls.concat(boys);
-// console.log(children);
-
-
-// const array1 = ["Cecilie", "Lone"];
-// const array2 = ["Emil", "Tobias", "Linus"];
-// const array3 = ["Robin", "Morgan"];
-// const myChildren = array1.concat(array2, array3);
-// console.log(myChildren);
+// const color1 =["blue","red",];
+// const color2 =["white","black","orange"];
+// const color3 =color1.concat(color2);
+// console.log(color3);
 
 
 // const array1 = ["Emil", "Tobias", "Linus"];
@@ -54,11 +47,11 @@ console.log(food);
 
 /*     Array splice    */
 // const fruit = ["Banana", "Orange", "Apple", "Mango"];
-// fruit.splice(1,0, "Lemon", "Kiwi");
+// fruit.splice(2,3, "Lemon", "Kiwi");
 // console.log(fruit);
 
 // const fruit1 = ["Banana", "Orange", "Apple", "Mango"];
-// fruit1.splice(2,2, "Lemon", "Kiwi");
+// fruit1.splice(2,1, "Lemon", "Kiwi");
 // console.log(fruit1);
 
 // const fruit2 = ["Banana", "Orange", "Apple", "Mango"];
@@ -71,12 +64,12 @@ console.log(food);
 // console.log(fruits2);
 
 // const fruits1 = ["Banana", "Orange", "Apple", "Mango"];
-// const fruits2 = fruis1.slice(0,2);
+// const fruits2 = fruits1.slice(0,2);
 // console.log(fruits2);
 
 /*      Array sort    */
 
-// const fru = ["Banana", "Orange", "Apple", "Mango"];
+// const fruit = ["Banana", "Orange", "Apple", "Mango"];
 // fruit.sort();
 // console.log(fruit);
 
