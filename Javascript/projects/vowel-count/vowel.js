@@ -8,6 +8,6 @@ function vowelCount(str) {
         return 0; 
     }
 }
-const string = "my name is vishva";
+const string = "my name is Deep";
 const len = vowelCount(string);
 console.log("Number of vowels:", len);

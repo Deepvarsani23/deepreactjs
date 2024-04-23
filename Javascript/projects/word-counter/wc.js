@@ -3,6 +3,6 @@ function wordsLen(str) {
     return array.length; 
 } 
   
-const str = "hello everyone! i am vishva hirpara"; 
+const str = "hello World"; 
   
 console.log("Word count:" ,wordsLen(str));
